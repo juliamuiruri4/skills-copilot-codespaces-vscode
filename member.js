@@ -1,4 +1,4 @@
-function skillMember() {
+function skillsMember() {
     // Create a new object
     var member = new Object();
     // Add properties to the object
